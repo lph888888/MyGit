@@ -8,4 +8,5 @@ public class people {
     private String name;
     private Integer age;
     private String user2;
+    private String user1;
 }
